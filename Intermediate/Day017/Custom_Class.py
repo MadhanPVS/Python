@@ -25,7 +25,6 @@ class User:
 
 user_1 = User("101","Madhan")
 user_2 = User("102","Siva")
-
 user_1.follow(user_2)
 print(user_1.followers, user_1.following)
 print(user_2.followers, user_2.following)
