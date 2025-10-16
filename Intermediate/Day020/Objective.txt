@@ -1,0 +1,5 @@
+Design a Snake game, with the following requirements
+
+1) Snake should be move along left, right, forward and backward
+2) When the Snake eat the food, body length should be increased.
+3) If Snake hit the wall or its own body, the game ends.
